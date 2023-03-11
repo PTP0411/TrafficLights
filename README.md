@@ -1,4 +1,4 @@
-# Welcome to the Traffic Lights Game GitHub repository!
+# Welcome to the Traffic Lights Game!
 ## Description:
 Simple 3-by-4 Traffic Lights game
 
