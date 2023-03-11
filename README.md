@@ -1,4 +1,7 @@
-The game Traffic Lights, originally called Semaphore, was invented by Alan Parr. Reported years of invention/publication vary from 1985 to 1992 to 1998. We will focus on the 3-by-4 version of the game.
+# Welcome to the Traffic Lights Game GitHub repository!
+## Description:
+Traffic Lights 
+Traffic Lights, originally called Semaphore, was invented by Alan Parr. Reported years of invention/publication vary from 1985 to 1992 to 1998. We will focus on the 3-by-4 version of the game.
 Each square of a 3-by-4 grid is considered to be a light, initially off. Then, players alternate, selecting a square that does not show a red light.
 If the selected square's light is off, it turns on as a green light.
 If the chosen square's light is green, it becomes yellow.
